@@ -1,0 +1,1050 @@
+1514998619709	geckodriver	INFO	geckodriver 0.19.1
+1514998619790	geckodriver	INFO	Listening on 127.0.0.1:57599
+1514998621276	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/v5/8xyw46d528565_tr5dl8h5nm0000gp/T/rust_mozprofile.1f5T2RaIYsMU"
+1514998621906	Marionette	INFO	Enabled via --marionette
+2018-01-03 10:57:02.818 plugin-container[8037:95429] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9f3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-01-03 10:57:02.818 plugin-container[8037:95429] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 10:57:02.819 plugin-container[8037:95429] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 10:57:02.819 plugin-container[8037:95429] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 10:57:02.820 plugin-container[8037:95429] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 10:57:02.821 plugin-container[8037:95429] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 10:57:02.821 plugin-container[8037:95429] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 10:57:02.821 plugin-container[8037:95429] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 10:57:02.821 plugin-container[8037:95429] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 10:57:02.821 plugin-container[8037:95429] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 10:57:02.822 plugin-container[8037:95429] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 10:57:02.822 plugin-container[8037:95429] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 10:57:02.822 plugin-container[8037:95429] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 10:57:02.822 plugin-container[8037:95429] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 10:57:02.823 plugin-container[8037:95429] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 10:57:02.823 plugin-container[8037:95429] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 10:57:02.823 plugin-container[8037:95429] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 10:57:02.824 plugin-container[8037:95429] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 10:57:02.824 plugin-container[8037:95429] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 10:57:02.824 plugin-container[8037:95429] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 10:57:02.826 plugin-container[8037:95429] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+1514998623334	Marionette	INFO	Listening on port 57605
+1514998623408	Marionette	WARN	TLS certificate errors will be ignored for this session
+1514998623493	Marionette	DEBUG	Register listener.js for window 2147483649
+1514998623533	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1514998623783	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1514998623783	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1514998624073	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://central.acadian.com/Intranet/LogIn.aspx?ReturnUrl=%2fIntranet%2fTools%2fSoftware%2fAcadianUniversitySso.aspx"
+1514998624315	Marionette	DEBUG	Received DOM event "pageshow" for "https://central.acadian.com/Intranet/LogIn.aspx?ReturnUrl=%2fIntranet%2fTools%2fSoftware%2fAcadianUniversitySso.aspx"
+1515000039245	geckodriver	INFO	geckodriver 0.19.1
+1515000039326	geckodriver	INFO	Listening on 127.0.0.1:65219
+1515000040402	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/v5/8xyw46d528565_tr5dl8h5nm0000gp/T/rust_mozprofile.KagGjssAfKXd"
+1515000041026	Marionette	INFO	Enabled via --marionette
+2018-01-03 11:20:41.972 plugin-container[8095:110852] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa43b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-01-03 11:20:41.972 plugin-container[8095:110852] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:20:41.973 plugin-container[8095:110852] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:20:41.973 plugin-container[8095:110852] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:20:41.974 plugin-container[8095:110852] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:20:41.975 plugin-container[8095:110852] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:20:41.975 plugin-container[8095:110852] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:20:41.975 plugin-container[8095:110852] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:20:41.975 plugin-container[8095:110852] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:20:41.976 plugin-container[8095:110852] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:20:41.976 plugin-container[8095:110852] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:20:41.976 plugin-container[8095:110852] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:20:41.976 plugin-container[8095:110852] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:20:41.977 plugin-container[8095:110852] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:20:41.977 plugin-container[8095:110852] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:20:41.977 plugin-container[8095:110852] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:20:41.977 plugin-container[8095:110852] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:20:41.978 plugin-container[8095:110852] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:20:41.978 plugin-container[8095:110852] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:20:41.978 plugin-container[8095:110852] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:20:41.981 plugin-container[8095:110852] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+1515000042455	Marionette	INFO	Listening on port 65225
+1515000042522	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515000042606	Marionette	DEBUG	Register listener.js for window 2147483649
+1515000042661	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515000042903	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515000042904	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515000043261	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://central.acadian.com/Intranet/LogIn.aspx?ReturnUrl=%2fIntranet%2fTools%2fSoftware%2fAcadianUniversitySso.aspx"
+1515000043569	Marionette	DEBUG	Received DOM event "pageshow" for "https://central.acadian.com/Intranet/LogIn.aspx?ReturnUrl=%2fIntranet%2fTools%2fSoftware%2fAcadianUniversitySso.aspx"
+1515000097419	Marionette	DEBUG	Register listener.js for window 4294967297
+1515000097469	Marionette	DEBUG	Register listener.js for window 4294967299
+2018-01-03 11:21:38.187 plugin-container[8096:111295] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xab43, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-01-03 11:21:38.188 plugin-container[8096:111295] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:21:38.188 plugin-container[8096:111295] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:21:38.189 plugin-container[8096:111295] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:21:38.189 plugin-container[8096:111295] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:21:38.190 plugin-container[8096:111295] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:21:38.190 plugin-container[8096:111295] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:21:38.190 plugin-container[8096:111295] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:21:38.190 plugin-container[8096:111295] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:21:38.191 plugin-container[8096:111295] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:21:38.191 plugin-container[8096:111295] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:21:38.191 plugin-container[8096:111295] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:21:38.191 plugin-container[8096:111295] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:21:38.192 plugin-container[8096:111295] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:21:38.192 plugin-container[8096:111295] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:21:38.192 plugin-container[8096:111295] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:21:38.192 plugin-container[8096:111295] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:21:38.193 plugin-container[8096:111295] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:21:38.193 plugin-container[8096:111295] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:21:38.193 plugin-container[8096:111295] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:21:38.196 plugin-container[8096:111295] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1515000105513	geckodriver	INFO	geckodriver 0.19.1
+1515000105590	geckodriver	INFO	Listening on 127.0.0.1:65532
+1515000106673	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/v5/8xyw46d528565_tr5dl8h5nm0000gp/T/rust_mozprofile.WWsKpHDPCBs1"
+1515000107257	Marionette	INFO	Enabled via --marionette
+2018-01-03 11:21:48.183 plugin-container[8102:111577] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa23b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-01-03 11:21:48.183 plugin-container[8102:111577] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:21:48.184 plugin-container[8102:111577] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:21:48.184 plugin-container[8102:111577] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:21:48.185 plugin-container[8102:111577] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:21:48.185 plugin-container[8102:111577] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:21:48.186 plugin-container[8102:111577] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:21:48.186 plugin-container[8102:111577] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:21:48.186 plugin-container[8102:111577] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:21:48.186 plugin-container[8102:111577] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:21:48.186 plugin-container[8102:111577] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:21:48.187 plugin-container[8102:111577] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:21:48.187 plugin-container[8102:111577] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:21:48.187 plugin-container[8102:111577] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:21:48.188 plugin-container[8102:111577] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:21:48.188 plugin-container[8102:111577] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:21:48.188 plugin-container[8102:111577] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:21:48.188 plugin-container[8102:111577] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:21:48.189 plugin-container[8102:111577] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:21:48.189 plugin-container[8102:111577] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:21:48.192 plugin-container[8102:111577] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+1515000108776	Marionette	INFO	Listening on port 49158
+1515000108856	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515000108931	Marionette	DEBUG	Register listener.js for window 2147483649
+1515000108955	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515000109160	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515000109161	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515000109461	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://central.acadian.com/Intranet/LogIn.aspx?ReturnUrl=%2fIntranet%2fTools%2fSoftware%2fAcadianUniversitySso.aspx"
+1515000109718	Marionette	DEBUG	Received DOM event "pageshow" for "https://central.acadian.com/Intranet/LogIn.aspx?ReturnUrl=%2fIntranet%2fTools%2fSoftware%2fAcadianUniversitySso.aspx"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1515000168126	geckodriver	INFO	geckodriver 0.19.1
+1515000168212	geckodriver	INFO	Listening on 127.0.0.1:49469
+1515000169292	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/v5/8xyw46d528565_tr5dl8h5nm0000gp/T/rust_mozprofile.E1Jx9nwMVhe5"
+1515000169879	Marionette	INFO	Enabled via --marionette
+2018-01-03 11:22:50.793 plugin-container[8108:112599] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa247, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-01-03 11:22:50.794 plugin-container[8108:112599] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:22:50.794 plugin-container[8108:112599] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:22:50.795 plugin-container[8108:112599] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:22:50.795 plugin-container[8108:112599] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:22:50.796 plugin-container[8108:112599] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:22:50.796 plugin-container[8108:112599] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:22:50.796 plugin-container[8108:112599] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:22:50.797 plugin-container[8108:112599] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:22:50.797 plugin-container[8108:112599] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:22:50.797 plugin-container[8108:112599] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:22:50.797 plugin-container[8108:112599] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:22:50.798 plugin-container[8108:112599] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:22:50.798 plugin-container[8108:112599] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:22:50.798 plugin-container[8108:112599] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:22:50.798 plugin-container[8108:112599] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:22:50.799 plugin-container[8108:112599] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:22:50.799 plugin-container[8108:112599] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:22:50.799 plugin-container[8108:112599] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:22:50.800 plugin-container[8108:112599] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:22:50.802 plugin-container[8108:112599] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+1515000171272	Marionette	INFO	Listening on port 49483
+1515000171376	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515000171452	Marionette	DEBUG	Register listener.js for window 2147483649
+1515000171494	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515000171688	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515000171688	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515000172024	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://central.acadian.com/Intranet/LogIn.aspx?ReturnUrl=%2fIntranet%2fTools%2fSoftware%2fAcadianUniversitySso.aspx"
+1515000172243	Marionette	DEBUG	Received DOM event "pageshow" for "https://central.acadian.com/Intranet/LogIn.aspx?ReturnUrl=%2fIntranet%2fTools%2fSoftware%2fAcadianUniversitySso.aspx"
+1515000284702	geckodriver	INFO	geckodriver 0.19.1
+1515000284785	geckodriver	INFO	Listening on 127.0.0.1:50009
+1515000285861	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/v5/8xyw46d528565_tr5dl8h5nm0000gp/T/rust_mozprofile.GgzlKBn4QgmT"
+1515000286455	Marionette	INFO	Enabled via --marionette
+2018-01-03 11:24:47.372 plugin-container[8115:113917] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa44f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-01-03 11:24:47.372 plugin-container[8115:113917] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:24:47.373 plugin-container[8115:113917] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:24:47.373 plugin-container[8115:113917] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:24:47.374 plugin-container[8115:113917] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:24:47.374 plugin-container[8115:113917] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:24:47.375 plugin-container[8115:113917] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:24:47.375 plugin-container[8115:113917] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:24:47.375 plugin-container[8115:113917] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:24:47.375 plugin-container[8115:113917] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:24:47.376 plugin-container[8115:113917] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:24:47.376 plugin-container[8115:113917] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:24:47.376 plugin-container[8115:113917] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:24:47.377 plugin-container[8115:113917] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:24:47.377 plugin-container[8115:113917] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:24:47.377 plugin-container[8115:113917] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:24:47.377 plugin-container[8115:113917] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:24:47.378 plugin-container[8115:113917] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:24:47.378 plugin-container[8115:113917] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:24:47.378 plugin-container[8115:113917] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:24:47.380 plugin-container[8115:113917] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+1515000287855	Marionette	INFO	Listening on port 50019
+1515000287945	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515000288028	Marionette	DEBUG	Register listener.js for window 2147483649
+1515000310560	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515000310745	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515000310745	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515000311070	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://central.acadian.com/Intranet/LogIn.aspx?ReturnUrl=%2fIntranet%2fTools%2fSoftware%2fAcadianUniversitySso.aspx"
+1515000311323	Marionette	DEBUG	Received DOM event "pageshow" for "https://central.acadian.com/Intranet/LogIn.aspx?ReturnUrl=%2fIntranet%2fTools%2fSoftware%2fAcadianUniversitySso.aspx"
+1515000851119	geckodriver	INFO	geckodriver 0.19.1
+1515000851204	geckodriver	INFO	Listening on 127.0.0.1:52419
+1515000852279	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/v5/8xyw46d528565_tr5dl8h5nm0000gp/T/rust_mozprofile.H3xBJosYO0bV"
+1515000852870	Marionette	INFO	Enabled via --marionette
+2018-01-03 11:34:13.768 plugin-container[8138:120340] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa33b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-01-03 11:34:13.769 plugin-container[8138:120340] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:34:13.770 plugin-container[8138:120340] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:34:13.770 plugin-container[8138:120340] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:34:13.770 plugin-container[8138:120340] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:34:13.771 plugin-container[8138:120340] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:34:13.771 plugin-container[8138:120340] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:34:13.772 plugin-container[8138:120340] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:34:13.772 plugin-container[8138:120340] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:34:13.772 plugin-container[8138:120340] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:34:13.772 plugin-container[8138:120340] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:34:13.773 plugin-container[8138:120340] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:34:13.773 plugin-container[8138:120340] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:34:13.773 plugin-container[8138:120340] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:34:13.773 plugin-container[8138:120340] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:34:13.774 plugin-container[8138:120340] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:34:13.774 plugin-container[8138:120340] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:34:13.774 plugin-container[8138:120340] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:34:13.774 plugin-container[8138:120340] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:34:13.775 plugin-container[8138:120340] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:34:13.777 plugin-container[8138:120340] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+1515000854300	Marionette	INFO	Listening on port 52433
+1515000854387	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515000854469	Marionette	DEBUG	Register listener.js for window 2147483649
+1515000854504	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515000854780	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515000854780	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515000855119	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://central.acadian.com/Intranet/LogIn.aspx?ReturnUrl=%2fIntranet%2fTools%2fSoftware%2fAcadianUniversitySso.aspx"
+1515000855349	Marionette	DEBUG	Received DOM event "pageshow" for "https://central.acadian.com/Intranet/LogIn.aspx?ReturnUrl=%2fIntranet%2fTools%2fSoftware%2fAcadianUniversitySso.aspx"
+1515000966169	geckodriver	INFO	geckodriver 0.19.1
+1515000966249	geckodriver	INFO	Listening on 127.0.0.1:52973
+1515000967328	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/v5/8xyw46d528565_tr5dl8h5nm0000gp/T/rust_mozprofile.rZEAsWrU5UGh"
+1515000967924	Marionette	INFO	Enabled via --marionette
+2018-01-03 11:36:08.843 plugin-container[8148:122155] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9e4f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-01-03 11:36:08.844 plugin-container[8148:122155] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:36:08.844 plugin-container[8148:122155] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:36:08.845 plugin-container[8148:122155] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:36:08.845 plugin-container[8148:122155] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:36:08.846 plugin-container[8148:122155] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:36:08.846 plugin-container[8148:122155] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:36:08.846 plugin-container[8148:122155] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:36:08.847 plugin-container[8148:122155] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:36:08.847 plugin-container[8148:122155] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:36:08.847 plugin-container[8148:122155] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:36:08.848 plugin-container[8148:122155] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:36:08.848 plugin-container[8148:122155] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:36:08.848 plugin-container[8148:122155] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:36:08.848 plugin-container[8148:122155] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:36:08.849 plugin-container[8148:122155] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:36:08.849 plugin-container[8148:122155] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:36:08.849 plugin-container[8148:122155] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:36:08.849 plugin-container[8148:122155] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:36:08.850 plugin-container[8148:122155] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:36:08.852 plugin-container[8148:122155] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+1515000969419	Marionette	INFO	Listening on port 52983
+1515000969511	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515000969581	Marionette	DEBUG	Register listener.js for window 2147483649
+1515000969611	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515000969802	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515000969802	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515000970118	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://central.acadian.com/Intranet/LogIn.aspx?ReturnUrl=%2fIntranet%2fTools%2fSoftware%2fAcadianUniversitySso.aspx"
+1515000970337	Marionette	DEBUG	Received DOM event "pageshow" for "https://central.acadian.com/Intranet/LogIn.aspx?ReturnUrl=%2fIntranet%2fTools%2fSoftware%2fAcadianUniversitySso.aspx"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1515001148484	geckodriver	INFO	geckodriver 0.19.1
+1515001148562	geckodriver	INFO	Listening on 127.0.0.1:53771
+1515001149639	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/v5/8xyw46d528565_tr5dl8h5nm0000gp/T/rust_mozprofile.XX6mjDw9pG3D"
+1515001150269	Marionette	INFO	Enabled via --marionette
+2018-01-03 11:39:11.192 plugin-container[8158:124601] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa34b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-01-03 11:39:11.192 plugin-container[8158:124601] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:39:11.193 plugin-container[8158:124601] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:39:11.193 plugin-container[8158:124601] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:39:11.194 plugin-container[8158:124601] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:39:11.195 plugin-container[8158:124601] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:39:11.195 plugin-container[8158:124601] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:39:11.195 plugin-container[8158:124601] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:39:11.195 plugin-container[8158:124601] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:39:11.196 plugin-container[8158:124601] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:39:11.196 plugin-container[8158:124601] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:39:11.196 plugin-container[8158:124601] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:39:11.196 plugin-container[8158:124601] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:39:11.197 plugin-container[8158:124601] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:39:11.197 plugin-container[8158:124601] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:39:11.197 plugin-container[8158:124601] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:39:11.197 plugin-container[8158:124601] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:39:11.198 plugin-container[8158:124601] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:39:11.198 plugin-container[8158:124601] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:39:11.198 plugin-container[8158:124601] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:39:11.200 plugin-container[8158:124601] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+1515001151685	Marionette	INFO	Listening on port 53781
+1515001151717	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515001151797	Marionette	DEBUG	Register listener.js for window 2147483649
+1515001151850	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515001152125	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515001152125	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515001152432	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://central.acadian.com/Intranet/LogIn.aspx?ReturnUrl=%2fIntranet%2fTools%2fSoftware%2fAcadianUniversitySso.aspx"
+1515001152672	Marionette	DEBUG	Received DOM event "pageshow" for "https://central.acadian.com/Intranet/LogIn.aspx?ReturnUrl=%2fIntranet%2fTools%2fSoftware%2fAcadianUniversitySso.aspx"
+1515001179256	Marionette	DEBUG	Register listener.js for window 4294967297
+1515001179306	Marionette	DEBUG	Register listener.js for window 4294967299
+2018-01-03 11:39:40.069 plugin-container[8159:124938] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xb04b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-01-03 11:39:40.070 plugin-container[8159:124938] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:39:40.070 plugin-container[8159:124938] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:39:40.071 plugin-container[8159:124938] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:39:40.071 plugin-container[8159:124938] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:39:40.072 plugin-container[8159:124938] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:39:40.073 plugin-container[8159:124938] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:39:40.073 plugin-container[8159:124938] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:39:40.073 plugin-container[8159:124938] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:39:40.073 plugin-container[8159:124938] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:39:40.074 plugin-container[8159:124938] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:39:40.074 plugin-container[8159:124938] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:39:40.074 plugin-container[8159:124938] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:39:40.075 plugin-container[8159:124938] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:39:40.075 plugin-container[8159:124938] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:39:40.075 plugin-container[8159:124938] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:39:40.075 plugin-container[8159:124938] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:39:40.076 plugin-container[8159:124938] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:39:40.076 plugin-container[8159:124938] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:39:40.076 plugin-container[8159:124938] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:39:40.079 plugin-container[8159:124938] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1515001380022	geckodriver	INFO	geckodriver 0.19.1
+1515001380102	geckodriver	INFO	Listening on 127.0.0.1:54798
+1515001381182	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/v5/8xyw46d528565_tr5dl8h5nm0000gp/T/rust_mozprofile.yzijj8DVfJ7X"
+1515001381770	Marionette	INFO	Enabled via --marionette
+2018-01-03 11:43:02.681 plugin-container[8171:127811] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa343, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-01-03 11:43:02.682 plugin-container[8171:127811] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:43:02.683 plugin-container[8171:127811] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:43:02.683 plugin-container[8171:127811] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:43:02.683 plugin-container[8171:127811] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:43:02.684 plugin-container[8171:127811] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:43:02.684 plugin-container[8171:127811] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:43:02.685 plugin-container[8171:127811] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:43:02.685 plugin-container[8171:127811] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:43:02.685 plugin-container[8171:127811] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:43:02.685 plugin-container[8171:127811] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:43:02.686 plugin-container[8171:127811] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:43:02.686 plugin-container[8171:127811] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:43:02.686 plugin-container[8171:127811] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:43:02.686 plugin-container[8171:127811] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:43:02.687 plugin-container[8171:127811] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:43:02.687 plugin-container[8171:127811] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:43:02.687 plugin-container[8171:127811] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:43:02.687 plugin-container[8171:127811] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:43:02.688 plugin-container[8171:127811] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:43:02.690 plugin-container[8171:127811] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+1515001383172	Marionette	INFO	Listening on port 54808
+1515001383266	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515001383346	Marionette	DEBUG	Register listener.js for window 2147483649
+1515001391195	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515001391425	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515001391425	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515001391749	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://central.acadian.com/Intranet/LogIn.aspx?ReturnUrl=%2fIntranet%2fTools%2fSoftware%2fAcadianUniversitySso.aspx"
+1515001391991	Marionette	DEBUG	Received DOM event "pageshow" for "https://central.acadian.com/Intranet/LogIn.aspx?ReturnUrl=%2fIntranet%2fTools%2fSoftware%2fAcadianUniversitySso.aspx"
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://central.acadian.com
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://central.acadian.com
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+1515001905907	geckodriver	INFO	geckodriver 0.19.1
+1515001905987	geckodriver	INFO	Listening on 127.0.0.1:56594
+1515001907065	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/v5/8xyw46d528565_tr5dl8h5nm0000gp/T/rust_mozprofile.iYWsrnylEPDs"
+1515001907660	Marionette	INFO	Enabled via --marionette
+2018-01-03 11:51:48.608 plugin-container[8180:132678] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9e4b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-01-03 11:51:48.608 plugin-container[8180:132678] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:51:48.609 plugin-container[8180:132678] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:51:48.609 plugin-container[8180:132678] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:51:48.609 plugin-container[8180:132678] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:51:48.610 plugin-container[8180:132678] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:51:48.611 plugin-container[8180:132678] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:51:48.611 plugin-container[8180:132678] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:51:48.611 plugin-container[8180:132678] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:51:48.611 plugin-container[8180:132678] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:51:48.612 plugin-container[8180:132678] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:51:48.612 plugin-container[8180:132678] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:51:48.612 plugin-container[8180:132678] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:51:48.612 plugin-container[8180:132678] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:51:48.613 plugin-container[8180:132678] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:51:48.613 plugin-container[8180:132678] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:51:48.613 plugin-container[8180:132678] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:51:48.613 plugin-container[8180:132678] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:51:48.614 plugin-container[8180:132678] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:51:48.614 plugin-container[8180:132678] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:51:48.616 plugin-container[8180:132678] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+1515001909102	Marionette	INFO	Listening on port 56604
+1515001909184	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515001909272	Marionette	DEBUG	Register listener.js for window 2147483649
+1515001909309	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515001909552	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515001909553	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515001909872	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://central.acadian.com/Intranet/LogIn.aspx?ReturnUrl=%2fIntranet%2fTools%2fSoftware%2fAcadianUniversitySso.aspx"
+1515001910117	Marionette	DEBUG	Received DOM event "pageshow" for "https://central.acadian.com/Intranet/LogIn.aspx?ReturnUrl=%2fIntranet%2fTools%2fSoftware%2fAcadianUniversitySso.aspx"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1515001937885	geckodriver	INFO	geckodriver 0.19.1
+1515001937964	geckodriver	INFO	Listening on 127.0.0.1:56796
+1515001939040	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/v5/8xyw46d528565_tr5dl8h5nm0000gp/T/rust_mozprofile.dbqL0OO01nI5"
+1515001939648	Marionette	INFO	Enabled via --marionette
+2018-01-03 11:52:20.576 plugin-container[8186:133196] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa537, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-01-03 11:52:20.577 plugin-container[8186:133196] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:52:20.577 plugin-container[8186:133196] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:52:20.578 plugin-container[8186:133196] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:52:20.578 plugin-container[8186:133196] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:52:20.579 plugin-container[8186:133196] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:52:20.579 plugin-container[8186:133196] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:52:20.579 plugin-container[8186:133196] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:52:20.580 plugin-container[8186:133196] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:52:20.580 plugin-container[8186:133196] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:52:20.580 plugin-container[8186:133196] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:52:20.581 plugin-container[8186:133196] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:52:20.581 plugin-container[8186:133196] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:52:20.581 plugin-container[8186:133196] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:52:20.581 plugin-container[8186:133196] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:52:20.582 plugin-container[8186:133196] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:52:20.582 plugin-container[8186:133196] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:52:20.582 plugin-container[8186:133196] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:52:20.582 plugin-container[8186:133196] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:52:20.583 plugin-container[8186:133196] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:52:20.585 plugin-container[8186:133196] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+1515001941127	Marionette	INFO	Listening on port 56806
+1515001941220	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515001941294	Marionette	DEBUG	Register listener.js for window 2147483649
+1515001941317	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515001941512	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515001941512	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515001942506	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://central.acadian.com/Intranet/LogIn.aspx?ReturnUrl=%2fIntranet%2fTools%2fSoftware%2fAcadianUniversitySso.aspx"
+1515001942729	Marionette	DEBUG	Received DOM event "pageshow" for "https://central.acadian.com/Intranet/LogIn.aspx?ReturnUrl=%2fIntranet%2fTools%2fSoftware%2fAcadianUniversitySso.aspx"
+1515002210714	geckodriver	INFO	geckodriver 0.19.1
+1515002210796	geckodriver	INFO	Listening on 127.0.0.1:57892
+1515002211869	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/v5/8xyw46d528565_tr5dl8h5nm0000gp/T/rust_mozprofile.IcwWDscP3axJ"
+1515002212498	Marionette	INFO	Enabled via --marionette
+2018-01-03 11:56:53.411 plugin-container[8198:136430] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa337, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-01-03 11:56:53.411 plugin-container[8198:136430] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:56:53.412 plugin-container[8198:136430] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:56:53.412 plugin-container[8198:136430] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:56:53.413 plugin-container[8198:136430] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:56:53.414 plugin-container[8198:136430] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:56:53.414 plugin-container[8198:136430] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:56:53.414 plugin-container[8198:136430] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:56:53.414 plugin-container[8198:136430] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:56:53.415 plugin-container[8198:136430] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:56:53.415 plugin-container[8198:136430] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:56:53.415 plugin-container[8198:136430] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:56:53.415 plugin-container[8198:136430] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:56:53.416 plugin-container[8198:136430] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:56:53.416 plugin-container[8198:136430] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:56:53.416 plugin-container[8198:136430] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:56:53.417 plugin-container[8198:136430] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:56:53.417 plugin-container[8198:136430] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:56:53.417 plugin-container[8198:136430] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:56:53.417 plugin-container[8198:136430] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:56:53.420 plugin-container[8198:136430] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+1515002213893	Marionette	INFO	Listening on port 57902
+1515002213957	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515002214042	Marionette	DEBUG	Register listener.js for window 2147483649
+1515002214076	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515002214312	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515002214312	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515002214611	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://central.acadian.com/Intranet/LogIn.aspx?ReturnUrl=%2fIntranet%2fTools%2fSoftware%2fAcadianUniversitySso.aspx"
+1515002214852	Marionette	DEBUG	Received DOM event "pageshow" for "https://central.acadian.com/Intranet/LogIn.aspx?ReturnUrl=%2fIntranet%2fTools%2fSoftware%2fAcadianUniversitySso.aspx"
+1515002343831	geckodriver	INFO	geckodriver 0.19.1
+1515002343910	geckodriver	INFO	Listening on 127.0.0.1:58380
+1515002344988	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/v5/8xyw46d528565_tr5dl8h5nm0000gp/T/rust_mozprofile.enaEAJWShXwv"
+1515002345579	Marionette	INFO	Enabled via --marionette
+2018-01-03 11:59:06.486 plugin-container[8232:138585] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa33b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-01-03 11:59:06.487 plugin-container[8232:138585] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:59:06.487 plugin-container[8232:138585] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:59:06.488 plugin-container[8232:138585] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:59:06.488 plugin-container[8232:138585] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:59:06.489 plugin-container[8232:138585] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:59:06.489 plugin-container[8232:138585] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:59:06.489 plugin-container[8232:138585] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:59:06.490 plugin-container[8232:138585] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:59:06.490 plugin-container[8232:138585] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:59:06.490 plugin-container[8232:138585] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:59:06.490 plugin-container[8232:138585] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:59:06.491 plugin-container[8232:138585] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:59:06.491 plugin-container[8232:138585] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:59:06.491 plugin-container[8232:138585] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:59:06.491 plugin-container[8232:138585] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:59:06.492 plugin-container[8232:138585] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:59:06.492 plugin-container[8232:138585] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:59:06.492 plugin-container[8232:138585] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:59:06.492 plugin-container[8232:138585] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:59:06.494 plugin-container[8232:138585] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+1515002346959	Marionette	INFO	Listening on port 58386
+1515002346968	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515002347041	Marionette	DEBUG	Register listener.js for window 2147483649
+1515002347074	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515002347323	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515002347323	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515002347647	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://central.acadian.com/Intranet/LogIn.aspx?ReturnUrl=%2fIntranet%2fTools%2fSoftware%2fAcadianUniversitySso.aspx"
+1515002347865	Marionette	DEBUG	Received DOM event "pageshow" for "https://central.acadian.com/Intranet/LogIn.aspx?ReturnUrl=%2fIntranet%2fTools%2fSoftware%2fAcadianUniversitySso.aspx"
+1515002758571	geckodriver	INFO	geckodriver 0.19.1
+1515002758656	geckodriver	INFO	Listening on 127.0.0.1:58530
+1515002759730	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/v5/8xyw46d528565_tr5dl8h5nm0000gp/T/rust_mozprofile.J7hPhyM0NXiY"
+1515002760327	Marionette	INFO	Enabled via --marionette
+2018-01-03 12:06:01.237 plugin-container[8278:144299] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa43b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-01-03 12:06:01.237 plugin-container[8278:144299] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:06:01.238 plugin-container[8278:144299] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:06:01.238 plugin-container[8278:144299] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:06:01.239 plugin-container[8278:144299] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:06:01.240 plugin-container[8278:144299] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:06:01.240 plugin-container[8278:144299] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:06:01.240 plugin-container[8278:144299] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:06:01.240 plugin-container[8278:144299] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:06:01.241 plugin-container[8278:144299] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:06:01.241 plugin-container[8278:144299] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:06:01.241 plugin-container[8278:144299] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:06:01.241 plugin-container[8278:144299] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:06:01.242 plugin-container[8278:144299] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:06:01.242 plugin-container[8278:144299] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:06:01.242 plugin-container[8278:144299] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:06:01.242 plugin-container[8278:144299] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:06:01.243 plugin-container[8278:144299] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:06:01.243 plugin-container[8278:144299] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:06:01.243 plugin-container[8278:144299] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:06:01.246 plugin-container[8278:144299] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+1515002761830	Marionette	INFO	Listening on port 58536
+1515002761916	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515002761989	Marionette	DEBUG	Register listener.js for window 2147483649
+1515002762030	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515002762274	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515002762275	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515002762612	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://central.acadian.com/Intranet/LogIn.aspx?ReturnUrl=%2fIntranet%2fTools%2fSoftware%2fAcadianUniversitySso.aspx"
+1515002762832	Marionette	DEBUG	Received DOM event "pageshow" for "https://central.acadian.com/Intranet/LogIn.aspx?ReturnUrl=%2fIntranet%2fTools%2fSoftware%2fAcadianUniversitySso.aspx"
+1515002763169	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript warning: https://acadian.csod.com/Core/scripts/drawing.js?hsh=983276846, line 206: unreachable code after return statement
+JavaScript warning: https://acadian.csod.com/Core/js/lib/jquery/1.10.2/jquery.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://acadian.csod.com/Core/scripts/drawing.js?hsh=983276846, line 206: unreachable code after return statement
+JavaScript warning: https://acadian.csod.com/Core/js/lib/jquery/1.10.2/jquery.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1515002869860	geckodriver	INFO	geckodriver 0.19.1
+1515002869942	geckodriver	INFO	Listening on 127.0.0.1:58631
+1515002871028	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/v5/8xyw46d528565_tr5dl8h5nm0000gp/T/rust_mozprofile.fUddgq6sur0s"
+1515002871628	Marionette	INFO	Enabled via --marionette
+2018-01-03 12:07:52.548 plugin-container[8284:145680] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa43b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-01-03 12:07:52.548 plugin-container[8284:145680] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:07:52.549 plugin-container[8284:145680] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:07:52.549 plugin-container[8284:145680] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:07:52.549 plugin-container[8284:145680] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:07:52.550 plugin-container[8284:145680] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:07:52.551 plugin-container[8284:145680] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:07:52.551 plugin-container[8284:145680] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:07:52.551 plugin-container[8284:145680] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:07:52.551 plugin-container[8284:145680] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:07:52.552 plugin-container[8284:145680] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:07:52.552 plugin-container[8284:145680] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:07:52.552 plugin-container[8284:145680] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:07:52.552 plugin-container[8284:145680] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:07:52.553 plugin-container[8284:145680] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:07:52.553 plugin-container[8284:145680] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:07:52.553 plugin-container[8284:145680] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:07:52.553 plugin-container[8284:145680] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:07:52.554 plugin-container[8284:145680] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:07:52.554 plugin-container[8284:145680] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:07:52.556 plugin-container[8284:145680] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+1515002873140	Marionette	INFO	Listening on port 58637
+1515002873197	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515002873269	Marionette	DEBUG	Register listener.js for window 2147483649
+1515002873299	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515002873493	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515002873493	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515002873821	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://central.acadian.com/Intranet/LogIn.aspx?ReturnUrl=%2fIntranet%2fTools%2fSoftware%2fAcadianUniversitySso.aspx"
+1515002874053	Marionette	DEBUG	Received DOM event "pageshow" for "https://central.acadian.com/Intranet/LogIn.aspx?ReturnUrl=%2fIntranet%2fTools%2fSoftware%2fAcadianUniversitySso.aspx"
+1515002874388	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515002906284	geckodriver	INFO	geckodriver 0.19.1
+1515002906365	geckodriver	INFO	Listening on 127.0.0.1:58707
+1515002907452	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/v5/8xyw46d528565_tr5dl8h5nm0000gp/T/rust_mozprofile.CtiVNlp879Lm"
+1515002908056	Marionette	INFO	Enabled via --marionette
+2018-01-03 12:08:28.969 plugin-container[8290:146169] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa24b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-01-03 12:08:28.970 plugin-container[8290:146169] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:08:28.970 plugin-container[8290:146169] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:08:28.971 plugin-container[8290:146169] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:08:28.971 plugin-container[8290:146169] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:08:28.972 plugin-container[8290:146169] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:08:28.973 plugin-container[8290:146169] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:08:28.973 plugin-container[8290:146169] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:08:28.973 plugin-container[8290:146169] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:08:28.973 plugin-container[8290:146169] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:08:28.974 plugin-container[8290:146169] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:08:28.974 plugin-container[8290:146169] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:08:28.974 plugin-container[8290:146169] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:08:28.974 plugin-container[8290:146169] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:08:28.975 plugin-container[8290:146169] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:08:28.975 plugin-container[8290:146169] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:08:28.975 plugin-container[8290:146169] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:08:28.976 plugin-container[8290:146169] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:08:28.976 plugin-container[8290:146169] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:08:28.976 plugin-container[8290:146169] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:08:28.979 plugin-container[8290:146169] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+1515002909462	Marionette	INFO	Listening on port 58713
+1515002909561	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515002909643	Marionette	DEBUG	Register listener.js for window 2147483649
+1515002909674	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515002909875	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515002909876	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515002910240	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://central.acadian.com/Intranet/LogIn.aspx?ReturnUrl=%2fIntranet%2fTools%2fSoftware%2fAcadianUniversitySso.aspx"
+1515002910460	Marionette	DEBUG	Received DOM event "pageshow" for "https://central.acadian.com/Intranet/LogIn.aspx?ReturnUrl=%2fIntranet%2fTools%2fSoftware%2fAcadianUniversitySso.aspx"
+1515002927532	geckodriver	INFO	geckodriver 0.19.1
+1515002927609	geckodriver	INFO	Listening on 127.0.0.1:58780
+1515002928692	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/v5/8xyw46d528565_tr5dl8h5nm0000gp/T/rust_mozprofile.L4k0GnHCQnPH"
+1515002929267	Marionette	INFO	Enabled via --marionette
+2018-01-03 12:08:50.179 plugin-container[8296:146502] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa23b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-01-03 12:08:50.180 plugin-container[8296:146502] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:08:50.180 plugin-container[8296:146502] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:08:50.181 plugin-container[8296:146502] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:08:50.181 plugin-container[8296:146502] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:08:50.182 plugin-container[8296:146502] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:08:50.182 plugin-container[8296:146502] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:08:50.183 plugin-container[8296:146502] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:08:50.183 plugin-container[8296:146502] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:08:50.183 plugin-container[8296:146502] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:08:50.183 plugin-container[8296:146502] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:08:50.184 plugin-container[8296:146502] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:08:50.184 plugin-container[8296:146502] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:08:50.184 plugin-container[8296:146502] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:08:50.184 plugin-container[8296:146502] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:08:50.185 plugin-container[8296:146502] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:08:50.185 plugin-container[8296:146502] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:08:50.185 plugin-container[8296:146502] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:08:50.185 plugin-container[8296:146502] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:08:50.185 plugin-container[8296:146502] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:08:50.188 plugin-container[8296:146502] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+1515002930731	Marionette	INFO	Listening on port 58786
+1515002930799	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515002930882	Marionette	DEBUG	Register listener.js for window 2147483649
+1515002930930	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515002931128	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515002931129	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515002931433	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://central.acadian.com/Intranet/LogIn.aspx?ReturnUrl=%2fIntranet%2fTools%2fSoftware%2fAcadianUniversitySso.aspx"
+1515002931684	Marionette	DEBUG	Received DOM event "pageshow" for "https://central.acadian.com/Intranet/LogIn.aspx?ReturnUrl=%2fIntranet%2fTools%2fSoftware%2fAcadianUniversitySso.aspx"
+1515002931829	Marionette	DEBUG	Received DOM event "beforeunload" for "https://central.acadian.com/Intranet/LogIn.aspx?ReturnUrl=%2fIntranet%2fTools%2fSoftware%2fAcadianUniversitySso.aspx"
+1515002932045	Marionette	DEBUG	Received DOM event "pagehide" for "https://central.acadian.com/Intranet/LogIn.aspx?ReturnUrl=%2fIntranet%2fTools%2fSoftware%2fAcadianUniversitySso.aspx"
+1515002932045	Marionette	DEBUG	Received DOM event "unload" for "https://central.acadian.com/Intranet/LogIn.aspx?ReturnUrl=%2fIntranet%2fTools%2fSoftware%2fAcadianUniversitySso.aspx"
+1515002932053	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://central.acadian.com/Intranet/Tools/Software/AcadianUniversitySso.aspx"
+1515002932095	Marionette	DEBUG	Received DOM event "pageshow" for "https://central.acadian.com/Intranet/Tools/Software/AcadianUniversitySso.aspx"
+JavaScript warning: https://acadian.csod.com/Core/scripts/drawing.js?hsh=983276846, line 206: unreachable code after return statement
+JavaScript warning: https://acadian.csod.com/Core/js/lib/jquery/1.10.2/jquery.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1515003270733	geckodriver	INFO	geckodriver 0.19.1
+1515003270815	geckodriver	INFO	Listening on 127.0.0.1:58942
+1515003271892	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/v5/8xyw46d528565_tr5dl8h5nm0000gp/T/rust_mozprofile.jzWWmtp7z1gc"
+1515003272474	Marionette	INFO	Enabled via --marionette
+2018-01-03 12:14:33.380 plugin-container[8306:149885] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa04b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-01-03 12:14:33.380 plugin-container[8306:149885] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:14:33.381 plugin-container[8306:149885] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:14:33.381 plugin-container[8306:149885] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:14:33.382 plugin-container[8306:149885] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:14:33.383 plugin-container[8306:149885] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:14:33.383 plugin-container[8306:149885] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:14:33.384 plugin-container[8306:149885] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:14:33.384 plugin-container[8306:149885] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:14:33.384 plugin-container[8306:149885] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:14:33.384 plugin-container[8306:149885] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:14:33.385 plugin-container[8306:149885] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:14:33.385 plugin-container[8306:149885] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:14:33.385 plugin-container[8306:149885] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:14:33.385 plugin-container[8306:149885] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:14:33.386 plugin-container[8306:149885] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:14:33.386 plugin-container[8306:149885] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:14:33.386 plugin-container[8306:149885] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:14:33.387 plugin-container[8306:149885] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:14:33.387 plugin-container[8306:149885] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:14:33.389 plugin-container[8306:149885] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+1515003274133	Marionette	INFO	Listening on port 58950
+1515003274208	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515003274291	Marionette	DEBUG	Register listener.js for window 2147483649
+1515003274326	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515003274577	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515003274578	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515003274862	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://central.acadian.com/Intranet/LogIn.aspx?ReturnUrl=%2fIntranet%2fTools%2fSoftware%2fAcadianUniversitySso.aspx"
+1515003275101	Marionette	DEBUG	Received DOM event "pageshow" for "https://central.acadian.com/Intranet/LogIn.aspx?ReturnUrl=%2fIntranet%2fTools%2fSoftware%2fAcadianUniversitySso.aspx"
+1515003275242	Marionette	DEBUG	Received DOM event "beforeunload" for "https://central.acadian.com/Intranet/LogIn.aspx?ReturnUrl=%2fIntranet%2fTools%2fSoftware%2fAcadianUniversitySso.aspx"
+1515003275446	Marionette	DEBUG	Received DOM event "pagehide" for "https://central.acadian.com/Intranet/LogIn.aspx?ReturnUrl=%2fIntranet%2fTools%2fSoftware%2fAcadianUniversitySso.aspx"
+1515003275446	Marionette	DEBUG	Received DOM event "unload" for "https://central.acadian.com/Intranet/LogIn.aspx?ReturnUrl=%2fIntranet%2fTools%2fSoftware%2fAcadianUniversitySso.aspx"
+1515003275456	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://central.acadian.com/Intranet/Tools/Software/AcadianUniversitySso.aspx"
+1515003275502	Marionette	DEBUG	Received DOM event "pageshow" for "https://central.acadian.com/Intranet/Tools/Software/AcadianUniversitySso.aspx"
+JavaScript warning: https://acadian.csod.com/Core/scripts/drawing.js?hsh=983276846, line 206: unreachable code after return statement
+JavaScript warning: https://acadian.csod.com/Core/js/lib/jquery/1.10.2/jquery.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://acadian.csod.com/Core/scripts/drawing.js?hsh=983276846, line 206: unreachable code after return statement
+1515003293356	geckodriver	INFO	geckodriver 0.19.1
+1515003293436	geckodriver	INFO	Listening on 127.0.0.1:59054
+1515003294514	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/v5/8xyw46d528565_tr5dl8h5nm0000gp/T/rust_mozprofile.U954VpbDR4WA"
+1515003295101	Marionette	INFO	Enabled via --marionette
+2018-01-03 12:14:56.009 plugin-container[8312:150284] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa237, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-01-03 12:14:56.009 plugin-container[8312:150284] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:14:56.010 plugin-container[8312:150284] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:14:56.010 plugin-container[8312:150284] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:14:56.011 plugin-container[8312:150284] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:14:56.012 plugin-container[8312:150284] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:14:56.012 plugin-container[8312:150284] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:14:56.012 plugin-container[8312:150284] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:14:56.012 plugin-container[8312:150284] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:14:56.013 plugin-container[8312:150284] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:14:56.013 plugin-container[8312:150284] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:14:56.013 plugin-container[8312:150284] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:14:56.013 plugin-container[8312:150284] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:14:56.014 plugin-container[8312:150284] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:14:56.014 plugin-container[8312:150284] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:14:56.014 plugin-container[8312:150284] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:14:56.014 plugin-container[8312:150284] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:14:56.015 plugin-container[8312:150284] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:14:56.015 plugin-container[8312:150284] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:14:56.015 plugin-container[8312:150284] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:14:56.017 plugin-container[8312:150284] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+1515003296506	Marionette	INFO	Listening on port 59060
+1515003296597	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515003296684	Marionette	DEBUG	Register listener.js for window 2147483649
+1515003296707	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515003296893	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515003296893	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515003297210	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://central.acadian.com/Intranet/LogIn.aspx?ReturnUrl=%2fIntranet%2fTools%2fSoftware%2fAcadianUniversitySso.aspx"
+1515003297474	Marionette	DEBUG	Received DOM event "pageshow" for "https://central.acadian.com/Intranet/LogIn.aspx?ReturnUrl=%2fIntranet%2fTools%2fSoftware%2fAcadianUniversitySso.aspx"
+1515003297612	Marionette	DEBUG	Received DOM event "beforeunload" for "https://central.acadian.com/Intranet/LogIn.aspx?ReturnUrl=%2fIntranet%2fTools%2fSoftware%2fAcadianUniversitySso.aspx"
+1515003297811	Marionette	DEBUG	Received DOM event "pagehide" for "https://central.acadian.com/Intranet/LogIn.aspx?ReturnUrl=%2fIntranet%2fTools%2fSoftware%2fAcadianUniversitySso.aspx"
+1515003297811	Marionette	DEBUG	Received DOM event "unload" for "https://central.acadian.com/Intranet/LogIn.aspx?ReturnUrl=%2fIntranet%2fTools%2fSoftware%2fAcadianUniversitySso.aspx"
+1515003297820	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://central.acadian.com/Intranet/Tools/Software/AcadianUniversitySso.aspx"
+1515003297868	Marionette	DEBUG	Received DOM event "pageshow" for "https://central.acadian.com/Intranet/Tools/Software/AcadianUniversitySso.aspx"
+JavaScript warning: https://acadian.csod.com/Core/scripts/drawing.js?hsh=983276846, line 206: unreachable code after return statement
+JavaScript warning: https://acadian.csod.com/Core/js/lib/jquery/1.10.2/jquery.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://acadian.csod.com/Core/scripts/drawing.js?hsh=983276846, line 206: unreachable code after return statement
+JavaScript warning: https://acadian.csod.com/Core/js/lib/jquery/1.10.2/jquery.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1515003323642	geckodriver	INFO	geckodriver 0.19.1
+1515003323720	geckodriver	INFO	Listening on 127.0.0.1:59161
+1515003324805	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/v5/8xyw46d528565_tr5dl8h5nm0000gp/T/rust_mozprofile.GEszSRxlhL9F"
+1515003325382	Marionette	INFO	Enabled via --marionette
+2018-01-03 12:15:26.299 plugin-container[8322:150789] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa54b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-01-03 12:15:26.300 plugin-container[8322:150789] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:15:26.300 plugin-container[8322:150789] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:15:26.301 plugin-container[8322:150789] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:15:26.301 plugin-container[8322:150789] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:15:26.302 plugin-container[8322:150789] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:15:26.302 plugin-container[8322:150789] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:15:26.302 plugin-container[8322:150789] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:15:26.303 plugin-container[8322:150789] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:15:26.303 plugin-container[8322:150789] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:15:26.303 plugin-container[8322:150789] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:15:26.304 plugin-container[8322:150789] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:15:26.304 plugin-container[8322:150789] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:15:26.304 plugin-container[8322:150789] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:15:26.304 plugin-container[8322:150789] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:15:26.305 plugin-container[8322:150789] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:15:26.305 plugin-container[8322:150789] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:15:26.305 plugin-container[8322:150789] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:15:26.305 plugin-container[8322:150789] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:15:26.306 plugin-container[8322:150789] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:15:26.308 plugin-container[8322:150789] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+1515003327498	Marionette	INFO	Listening on port 59167
+1515003327595	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515003327675	Marionette	DEBUG	Register listener.js for window 2147483649
+1515003327719	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515003327907	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515003327908	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515003328302	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://central.acadian.com/Intranet/LogIn.aspx?ReturnUrl=%2fIntranet%2fTools%2fSoftware%2fAcadianUniversitySso.aspx"
+1515003328531	Marionette	DEBUG	Received DOM event "pageshow" for "https://central.acadian.com/Intranet/LogIn.aspx?ReturnUrl=%2fIntranet%2fTools%2fSoftware%2fAcadianUniversitySso.aspx"
+1515003328681	Marionette	DEBUG	Received DOM event "beforeunload" for "https://central.acadian.com/Intranet/LogIn.aspx?ReturnUrl=%2fIntranet%2fTools%2fSoftware%2fAcadianUniversitySso.aspx"
+1515003328877	Marionette	DEBUG	Received DOM event "pagehide" for "https://central.acadian.com/Intranet/LogIn.aspx?ReturnUrl=%2fIntranet%2fTools%2fSoftware%2fAcadianUniversitySso.aspx"
+1515003328877	Marionette	DEBUG	Received DOM event "unload" for "https://central.acadian.com/Intranet/LogIn.aspx?ReturnUrl=%2fIntranet%2fTools%2fSoftware%2fAcadianUniversitySso.aspx"
+1515003328886	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://central.acadian.com/Intranet/Tools/Software/AcadianUniversitySso.aspx"
+1515003328930	Marionette	DEBUG	Received DOM event "pageshow" for "https://central.acadian.com/Intranet/Tools/Software/AcadianUniversitySso.aspx"
+JavaScript warning: https://acadian.csod.com/Core/scripts/drawing.js?hsh=983276846, line 206: unreachable code after return statement
+JavaScript warning: https://acadian.csod.com/Core/js/lib/jquery/1.10.2/jquery.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://acadian.csod.com/Core/scripts/drawing.js?hsh=983276846, line 206: unreachable code after return statement
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1515003944838	geckodriver	INFO	geckodriver 0.19.1
+1515003945050	geckodriver	INFO	Listening on 127.0.0.1:60972
+1515003946207	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/v5/8xyw46d528565_tr5dl8h5nm0000gp/T/rust_mozprofile.zb5YrkPkPfIl"
+1515003947571	Marionette	INFO	Enabled via --marionette
+2018-01-03 12:25:49.781 plugin-container[8361:156917] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9e47, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-01-03 12:25:49.782 plugin-container[8361:156917] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:25:49.784 plugin-container[8361:156917] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:25:49.784 plugin-container[8361:156917] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:25:49.785 plugin-container[8361:156917] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:25:49.788 plugin-container[8361:156917] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:25:49.788 plugin-container[8361:156917] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:25:49.789 plugin-container[8361:156917] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:25:49.789 plugin-container[8361:156917] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:25:49.790 plugin-container[8361:156917] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:25:49.790 plugin-container[8361:156917] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:25:49.791 plugin-container[8361:156917] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:25:49.792 plugin-container[8361:156917] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:25:49.792 plugin-container[8361:156917] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:25:49.793 plugin-container[8361:156917] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:25:49.794 plugin-container[8361:156917] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:25:49.794 plugin-container[8361:156917] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:25:49.795 plugin-container[8361:156917] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:25:49.795 plugin-container[8361:156917] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:25:49.796 plugin-container[8361:156917] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:25:49.801 plugin-container[8361:156917] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+1515003950902	Marionette	INFO	Listening on port 60982
+1515003950973	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515003951161	Marionette	DEBUG	Register listener.js for window 2147483649
+1515003951294	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515003951632	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515003951633	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515003952311	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://central.acadian.com/Intranet/LogIn.aspx?ReturnUrl=%2fIntranet%2fTools%2fSoftware%2fAcadianUniversitySso.aspx"
+1515003952528	Marionette	DEBUG	Received DOM event "pageshow" for "https://central.acadian.com/Intranet/LogIn.aspx?ReturnUrl=%2fIntranet%2fTools%2fSoftware%2fAcadianUniversitySso.aspx"
+1515003952900	Marionette	DEBUG	Received DOM event "beforeunload" for "https://central.acadian.com/Intranet/LogIn.aspx?ReturnUrl=%2fIntranet%2fTools%2fSoftware%2fAcadianUniversitySso.aspx"
+1515003953125	Marionette	DEBUG	Received DOM event "pagehide" for "https://central.acadian.com/Intranet/LogIn.aspx?ReturnUrl=%2fIntranet%2fTools%2fSoftware%2fAcadianUniversitySso.aspx"
+1515003953125	Marionette	DEBUG	Received DOM event "unload" for "https://central.acadian.com/Intranet/LogIn.aspx?ReturnUrl=%2fIntranet%2fTools%2fSoftware%2fAcadianUniversitySso.aspx"
+1515003953149	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://central.acadian.com/Intranet/Tools/Software/AcadianUniversitySso.aspx"
+1515003953260	Marionette	DEBUG	Received DOM event "pageshow" for "https://central.acadian.com/Intranet/Tools/Software/AcadianUniversitySso.aspx"
+JavaScript warning: https://acadian.csod.com/Core/scripts/drawing.js?hsh=983276846, line 206: unreachable code after return statement
+JavaScript warning: https://acadian.csod.com/Core/js/lib/jquery/1.10.2/jquery.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://acadian.csod.com/Core/scripts/drawing.js?hsh=983276846, line 206: unreachable code after return statement
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1515003966890	geckodriver	INFO	geckodriver 0.19.1
+1515003967089	geckodriver	INFO	Listening on 127.0.0.1:61193
+1515003968257	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/v5/8xyw46d528565_tr5dl8h5nm0000gp/T/rust_mozprofile.PsCmj15rcRQs"
+1515003969582	Marionette	INFO	Enabled via --marionette
+2018-01-03 12:26:11.662 plugin-container[8367:157271] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa04b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-01-03 12:26:11.663 plugin-container[8367:157271] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:26:11.665 plugin-container[8367:157271] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:26:11.665 plugin-container[8367:157271] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:26:11.666 plugin-container[8367:157271] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:26:11.668 plugin-container[8367:157271] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:26:11.669 plugin-container[8367:157271] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:26:11.669 plugin-container[8367:157271] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:26:11.670 plugin-container[8367:157271] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:26:11.671 plugin-container[8367:157271] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:26:11.671 plugin-container[8367:157271] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:26:11.672 plugin-container[8367:157271] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:26:11.672 plugin-container[8367:157271] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:26:11.673 plugin-container[8367:157271] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:26:11.673 plugin-container[8367:157271] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:26:11.674 plugin-container[8367:157271] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:26:11.675 plugin-container[8367:157271] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:26:11.675 plugin-container[8367:157271] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:26:11.676 plugin-container[8367:157271] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:26:11.676 plugin-container[8367:157271] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:26:11.682 plugin-container[8367:157271] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+1515003972712	Marionette	INFO	Listening on port 61203
+1515003972828	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515003973012	Marionette	DEBUG	Register listener.js for window 2147483649
+1515003973109	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515003973419	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515003973420	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515003974064	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://central.acadian.com/Intranet/LogIn.aspx?ReturnUrl=%2fIntranet%2fTools%2fSoftware%2fAcadianUniversitySso.aspx"
+1515003974311	Marionette	DEBUG	Received DOM event "pageshow" for "https://central.acadian.com/Intranet/LogIn.aspx?ReturnUrl=%2fIntranet%2fTools%2fSoftware%2fAcadianUniversitySso.aspx"
+1515003974672	Marionette	DEBUG	Received DOM event "beforeunload" for "https://central.acadian.com/Intranet/LogIn.aspx?ReturnUrl=%2fIntranet%2fTools%2fSoftware%2fAcadianUniversitySso.aspx"
+1515003974914	Marionette	DEBUG	Received DOM event "pagehide" for "https://central.acadian.com/Intranet/LogIn.aspx?ReturnUrl=%2fIntranet%2fTools%2fSoftware%2fAcadianUniversitySso.aspx"
+1515003974915	Marionette	DEBUG	Received DOM event "unload" for "https://central.acadian.com/Intranet/LogIn.aspx?ReturnUrl=%2fIntranet%2fTools%2fSoftware%2fAcadianUniversitySso.aspx"
+1515003974935	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://central.acadian.com/Intranet/Tools/Software/AcadianUniversitySso.aspx"
+1515003975026	Marionette	DEBUG	Received DOM event "pageshow" for "https://central.acadian.com/Intranet/Tools/Software/AcadianUniversitySso.aspx"
+JavaScript warning: https://acadian.csod.com/Core/scripts/drawing.js?hsh=983276846, line 206: unreachable code after return statement
+JavaScript warning: https://acadian.csod.com/Core/js/lib/jquery/1.10.2/jquery.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1515004011159	geckodriver	INFO	geckodriver 0.19.1
+1515004011356	geckodriver	INFO	Listening on 127.0.0.1:61511
+1515004012524	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/v5/8xyw46d528565_tr5dl8h5nm0000gp/T/rust_mozprofile.R2ZHOwztroCn"
+1515004013863	Marionette	INFO	Enabled via --marionette
+2018-01-03 12:26:55.958 plugin-container[8373:157905] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa14b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-01-03 12:26:55.959 plugin-container[8373:157905] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:26:55.961 plugin-container[8373:157905] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:26:55.961 plugin-container[8373:157905] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:26:55.962 plugin-container[8373:157905] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:26:55.964 plugin-container[8373:157905] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:26:55.965 plugin-container[8373:157905] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:26:55.965 plugin-container[8373:157905] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:26:55.966 plugin-container[8373:157905] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:26:55.966 plugin-container[8373:157905] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:26:55.967 plugin-container[8373:157905] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:26:55.968 plugin-container[8373:157905] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:26:55.968 plugin-container[8373:157905] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:26:55.969 plugin-container[8373:157905] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:26:55.969 plugin-container[8373:157905] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:26:55.970 plugin-container[8373:157905] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:26:55.970 plugin-container[8373:157905] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:26:55.971 plugin-container[8373:157905] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:26:55.971 plugin-container[8373:157905] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:26:55.972 plugin-container[8373:157905] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:26:55.977 plugin-container[8373:157905] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+1515004017538	Marionette	INFO	Listening on port 61521
+1515004017590	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515004017787	Marionette	DEBUG	Register listener.js for window 2147483649
+1515004017898	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515004018144	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515004018145	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515004018835	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://central.acadian.com/Intranet/LogIn.aspx?ReturnUrl=%2fIntranet%2fTools%2fSoftware%2fAcadianUniversitySso.aspx"
+1515004019093	Marionette	DEBUG	Received DOM event "pageshow" for "https://central.acadian.com/Intranet/LogIn.aspx?ReturnUrl=%2fIntranet%2fTools%2fSoftware%2fAcadianUniversitySso.aspx"
+1515004019442	Marionette	DEBUG	Received DOM event "beforeunload" for "https://central.acadian.com/Intranet/LogIn.aspx?ReturnUrl=%2fIntranet%2fTools%2fSoftware%2fAcadianUniversitySso.aspx"
+1515004019724	Marionette	DEBUG	Received DOM event "pagehide" for "https://central.acadian.com/Intranet/LogIn.aspx?ReturnUrl=%2fIntranet%2fTools%2fSoftware%2fAcadianUniversitySso.aspx"
+1515004019725	Marionette	DEBUG	Received DOM event "unload" for "https://central.acadian.com/Intranet/LogIn.aspx?ReturnUrl=%2fIntranet%2fTools%2fSoftware%2fAcadianUniversitySso.aspx"
+1515004019746	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://central.acadian.com/Intranet/Tools/Software/AcadianUniversitySso.aspx"
+1515004019849	Marionette	DEBUG	Received DOM event "pageshow" for "https://central.acadian.com/Intranet/Tools/Software/AcadianUniversitySso.aspx"
+JavaScript warning: https://acadian.csod.com/Core/scripts/drawing.js?hsh=983276846, line 206: unreachable code after return statement
+JavaScript warning: https://acadian.csod.com/Core/js/lib/jquery/1.10.2/jquery.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://acadian.csod.com/Core/scripts/drawing.js?hsh=983276846, line 206: unreachable code after return statement
+1515004074312	geckodriver	INFO	geckodriver 0.19.1
+1515004074397	geckodriver	INFO	Listening on 127.0.0.1:61897
+1515004075473	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/v5/8xyw46d528565_tr5dl8h5nm0000gp/T/rust_mozprofile.CqqXpCE8dZUQ"
+1515004076057	Marionette	INFO	Enabled via --marionette
+2018-01-03 12:27:56.959 plugin-container[8381:158525] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9f3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-01-03 12:27:56.959 plugin-container[8381:158525] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:27:56.960 plugin-container[8381:158525] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:27:56.960 plugin-container[8381:158525] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:27:56.961 plugin-container[8381:158525] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:27:56.961 plugin-container[8381:158525] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:27:56.962 plugin-container[8381:158525] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:27:56.962 plugin-container[8381:158525] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:27:56.962 plugin-container[8381:158525] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:27:56.962 plugin-container[8381:158525] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:27:56.963 plugin-container[8381:158525] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:27:56.963 plugin-container[8381:158525] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:27:56.963 plugin-container[8381:158525] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:27:56.963 plugin-container[8381:158525] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:27:56.964 plugin-container[8381:158525] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:27:56.964 plugin-container[8381:158525] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:27:56.964 plugin-container[8381:158525] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:27:56.964 plugin-container[8381:158525] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:27:56.965 plugin-container[8381:158525] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:27:56.965 plugin-container[8381:158525] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:27:56.967 plugin-container[8381:158525] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+1515004077566	Marionette	INFO	Listening on port 61907
+1515004077677	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515004077763	Marionette	DEBUG	Register listener.js for window 2147483649
+1515004077791	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515004077986	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515004077987	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515004078361	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://central.acadian.com/Intranet/LogIn.aspx?ReturnUrl=%2fIntranet%2fTools%2fSoftware%2fAcadianUniversitySso.aspx"
+1515004078584	Marionette	DEBUG	Received DOM event "pageshow" for "https://central.acadian.com/Intranet/LogIn.aspx?ReturnUrl=%2fIntranet%2fTools%2fSoftware%2fAcadianUniversitySso.aspx"
+1515004078741	Marionette	DEBUG	Received DOM event "beforeunload" for "https://central.acadian.com/Intranet/LogIn.aspx?ReturnUrl=%2fIntranet%2fTools%2fSoftware%2fAcadianUniversitySso.aspx"
+1515004078911	Marionette	DEBUG	Received DOM event "pagehide" for "https://central.acadian.com/Intranet/LogIn.aspx?ReturnUrl=%2fIntranet%2fTools%2fSoftware%2fAcadianUniversitySso.aspx"
+1515004078912	Marionette	DEBUG	Received DOM event "unload" for "https://central.acadian.com/Intranet/LogIn.aspx?ReturnUrl=%2fIntranet%2fTools%2fSoftware%2fAcadianUniversitySso.aspx"
+1515004078919	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://central.acadian.com/Intranet/Tools/Software/AcadianUniversitySso.aspx"
+1515004078963	Marionette	DEBUG	Received DOM event "pageshow" for "https://central.acadian.com/Intranet/Tools/Software/AcadianUniversitySso.aspx"
+JavaScript warning: https://acadian.csod.com/Core/scripts/drawing.js?hsh=983276846, line 206: unreachable code after return statement
+JavaScript warning: https://acadian.csod.com/Core/js/lib/jquery/1.10.2/jquery.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://acadian.csod.com/Core/scripts/drawing.js?hsh=983276846, line 206: unreachable code after return statement
+1515004099133	geckodriver	INFO	geckodriver 0.19.1
+1515004099213	geckodriver	INFO	Listening on 127.0.0.1:62088
+1515004100422	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/v5/8xyw46d528565_tr5dl8h5nm0000gp/T/rust_mozprofile.D7zxb1CR4vM1"
+1515004101041	Marionette	INFO	Enabled via --marionette
+2018-01-03 12:28:21.989 plugin-container[8387:159093] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa04b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-01-03 12:28:21.990 plugin-container[8387:159093] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:28:21.991 plugin-container[8387:159093] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:28:21.991 plugin-container[8387:159093] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:28:21.992 plugin-container[8387:159093] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:28:21.993 plugin-container[8387:159093] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:28:21.993 plugin-container[8387:159093] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:28:21.993 plugin-container[8387:159093] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:28:21.993 plugin-container[8387:159093] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:28:21.994 plugin-container[8387:159093] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:28:21.994 plugin-container[8387:159093] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:28:21.994 plugin-container[8387:159093] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:28:21.995 plugin-container[8387:159093] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:28:21.995 plugin-container[8387:159093] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:28:21.995 plugin-container[8387:159093] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:28:21.995 plugin-container[8387:159093] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:28:21.996 plugin-container[8387:159093] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:28:21.996 plugin-container[8387:159093] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:28:21.996 plugin-container[8387:159093] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:28:21.996 plugin-container[8387:159093] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:28:22.000 plugin-container[8387:159093] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+1515004102526	Marionette	INFO	Listening on port 62098
+1515004102609	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515004102692	Marionette	DEBUG	Register listener.js for window 2147483649
+1515004102725	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515004102926	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515004102926	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515004103291	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://central.acadian.com/Intranet/LogIn.aspx?ReturnUrl=%2fIntranet%2fTools%2fSoftware%2fAcadianUniversitySso.aspx"
+1515004103523	Marionette	DEBUG	Received DOM event "pageshow" for "https://central.acadian.com/Intranet/LogIn.aspx?ReturnUrl=%2fIntranet%2fTools%2fSoftware%2fAcadianUniversitySso.aspx"
+1515004103667	Marionette	DEBUG	Received DOM event "beforeunload" for "https://central.acadian.com/Intranet/LogIn.aspx?ReturnUrl=%2fIntranet%2fTools%2fSoftware%2fAcadianUniversitySso.aspx"
+1515004103878	Marionette	DEBUG	Received DOM event "pagehide" for "https://central.acadian.com/Intranet/LogIn.aspx?ReturnUrl=%2fIntranet%2fTools%2fSoftware%2fAcadianUniversitySso.aspx"
+1515004103878	Marionette	DEBUG	Received DOM event "unload" for "https://central.acadian.com/Intranet/LogIn.aspx?ReturnUrl=%2fIntranet%2fTools%2fSoftware%2fAcadianUniversitySso.aspx"
+1515004103887	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://central.acadian.com/Intranet/Tools/Software/AcadianUniversitySso.aspx"
+1515004103935	Marionette	DEBUG	Received DOM event "pageshow" for "https://central.acadian.com/Intranet/Tools/Software/AcadianUniversitySso.aspx"
+JavaScript warning: https://acadian.csod.com/Core/scripts/drawing.js?hsh=983276846, line 206: unreachable code after return statement
+JavaScript warning: https://acadian.csod.com/Core/js/lib/jquery/1.10.2/jquery.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1515004107092	Marionette	DEBUG	Received DOM event "beforeunload" for "https://acadian.csod.com/LMS/catalog/Welcome.aspx?tab_page_id=-67&tab_id=-1"
+1515004107837	Marionette	DEBUG	Received DOM event "pagehide" for "https://acadian.csod.com/LMS/catalog/Welcome.aspx?tab_page_id=-67&tab_id=-1"
+1515004107844	Marionette	DEBUG	Received DOM event "unload" for "https://acadian.csod.com/LMS/catalog/Welcome.aspx?tab_page_id=-67&tab_id=-1"
+JavaScript warning: https://acadian.csod.com/Core/scripts/drawing.js?hsh=983276846, line 206: unreachable code after return statement
+1515004107974	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483655"
+JavaScript warning: https://acadian.csod.com/Core/js/lib/jquery/1.10.2/jquery.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1515004110140	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://acadian.csod.com/LMS/LoDetails/DetailsLo.aspx?loId=93fbe2bb-85ed-4ab3-a101-80711e17d3f7&back=/LMS/catalog/Welcome.aspx?tab_page_id=-67&tab_id=-1#t=1"
+1515004111303	Marionette	DEBUG	Received DOM event "pageshow" for "https://acadian.csod.com/LMS/LoDetails/DetailsLo.aspx?loId=93fbe2bb-85ed-4ab3-a101-80711e17d3f7&back=/LMS/catalog/Welcome.aspx?tab_page_id=-67&tab_id=-1#t=1"
+JavaScript warning: https://acadian.csod.com/Core/scripts/drawing.js?hsh=983276846, line 206: unreachable code after return statement
+JavaScript warning: https://acadian.csod.com/Core/js/lib/jquery/1.10.2/jquery.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://acadian.csod.com/Core/scripts/drawing.js?hsh=983276846, line 206: unreachable code after return statement
+JavaScript warning: https://acadian.csod.com/Core/js/lib/jquery/1.10.2/jquery.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1515004205398	geckodriver	INFO	geckodriver 0.19.1
+1515004205477	geckodriver	INFO	Listening on 127.0.0.1:62622
+1515004209172	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/v5/8xyw46d528565_tr5dl8h5nm0000gp/T/rust_mozprofile.8rCeJA6yZ1mb"
+1515004211128	Marionette	INFO	Enabled via --marionette
+2018-01-03 12:30:12.145 plugin-container[8519:162785] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa14b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-01-03 12:30:12.145 plugin-container[8519:162785] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:30:12.146 plugin-container[8519:162785] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:30:12.146 plugin-container[8519:162785] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:30:12.146 plugin-container[8519:162785] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:30:12.148 plugin-container[8519:162785] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:30:12.148 plugin-container[8519:162785] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:30:12.148 plugin-container[8519:162785] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:30:12.148 plugin-container[8519:162785] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:30:12.149 plugin-container[8519:162785] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:30:12.149 plugin-container[8519:162785] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:30:12.149 plugin-container[8519:162785] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:30:12.149 plugin-container[8519:162785] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:30:12.150 plugin-container[8519:162785] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:30:12.150 plugin-container[8519:162785] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:30:12.150 plugin-container[8519:162785] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:30:12.150 plugin-container[8519:162785] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:30:12.151 plugin-container[8519:162785] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:30:12.151 plugin-container[8519:162785] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:30:12.151 plugin-container[8519:162785] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 12:30:12.271 plugin-container[8519:162785] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+1515004212820	Marionette	INFO	Listening on port 62640
+1515004212934	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515004213014	Marionette	DEBUG	Register listener.js for window 2147483649
+1515004213430	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515004213664	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515004213664	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515004214053	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://central.acadian.com/Intranet/LogIn.aspx?ReturnUrl=%2fIntranet%2fTools%2fSoftware%2fAcadianUniversitySso.aspx"
+1515004214291	Marionette	DEBUG	Received DOM event "pageshow" for "https://central.acadian.com/Intranet/LogIn.aspx?ReturnUrl=%2fIntranet%2fTools%2fSoftware%2fAcadianUniversitySso.aspx"
+1515004214455	Marionette	DEBUG	Received DOM event "beforeunload" for "https://central.acadian.com/Intranet/LogIn.aspx?ReturnUrl=%2fIntranet%2fTools%2fSoftware%2fAcadianUniversitySso.aspx"
+1515004214663	Marionette	DEBUG	Received DOM event "pagehide" for "https://central.acadian.com/Intranet/LogIn.aspx?ReturnUrl=%2fIntranet%2fTools%2fSoftware%2fAcadianUniversitySso.aspx"
+1515004214663	Marionette	DEBUG	Received DOM event "unload" for "https://central.acadian.com/Intranet/LogIn.aspx?ReturnUrl=%2fIntranet%2fTools%2fSoftware%2fAcadianUniversitySso.aspx"
+1515004214671	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://central.acadian.com/Intranet/Tools/Software/AcadianUniversitySso.aspx"
+1515004214716	Marionette	DEBUG	Received DOM event "pageshow" for "https://central.acadian.com/Intranet/Tools/Software/AcadianUniversitySso.aspx"
+JavaScript warning: https://acadian.csod.com/Core/scripts/drawing.js?hsh=983276846, line 206: unreachable code after return statement
+JavaScript warning: https://acadian.csod.com/Core/js/lib/jquery/1.10.2/jquery.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1515004221968	Marionette	DEBUG	Received DOM event "beforeunload" for "https://acadian.csod.com/LMS/catalog/Welcome.aspx?tab_page_id=-67&tab_id=-1"
+1515004222257	Marionette	DEBUG	Received DOM event "pagehide" for "https://acadian.csod.com/LMS/catalog/Welcome.aspx?tab_page_id=-67&tab_id=-1"
+1515004222265	Marionette	DEBUG	Received DOM event "unload" for "https://acadian.csod.com/LMS/catalog/Welcome.aspx?tab_page_id=-67&tab_id=-1"
+1515004222272	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://acadian.csod.com/LMS/scorm/LaunchLo.aspx?objectId=93fbe2bb-85ed-4ab3-a101-80711e17d3f7&userId=%5e%5e%5ebmzWmAajkKmsOda88NjoHw%3d%3d"
+1515004222275	Marionette	DEBUG	Received DOM event "pageshow" for "https://acadian.csod.com/LMS/scorm/LaunchLo.aspx?objectId=93fbe2bb-85ed-4ab3-a101-80711e17d3f7&userId=%5e%5e%5ebmzWmAajkKmsOda88NjoHw%3d%3d"
+JavaScript warning: https://acadian.csod.com/Core/scripts/drawing.js?hsh=983276846, line 206: unreachable code after return statement
+JavaScript warning: https://acadian.csod.com/Core/js/lib/jquery/1.10.2/jquery.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://acadian.csod.com/Core/scripts/drawing.js?hsh=983276846, line 206: unreachable code after return statement
+JavaScript warning: https://acadian.csod.com/Core/js/lib/jquery/1.10.2/jquery.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
