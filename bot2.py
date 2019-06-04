@@ -25,9 +25,9 @@ userName = browser.find_element_by_id('txtUsername')
 
 password = browser.find_element_by_id('txtPassword')
 
-userName.send_keys('drayton.kittel')
+userName.send_keys('NEEDS SECRET KEY FILE')
 
-password.send_keys('BigGreenWeenie@1')
+password.send_keys('NEEDS SECRET KEY FILE')
 
 browser.find_element_by_id("btnLogin").click()
 
